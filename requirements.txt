@@ -1,8 +1,7 @@
-streamlit
+streamlit==1.33.0
 langchain==0.1.16
-langchain-community
+langchain-community==0.0.32
 langchain-groq
-langchain-text-splitters
 faiss-cpu
 sentence-transformers
 python-dotenv
@@ -12,3 +11,4 @@ docx2txt
 openpyxl
 torch
 torchvision
+pydantic==1.10.13
