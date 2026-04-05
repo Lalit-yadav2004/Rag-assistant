@@ -15,4 +15,3 @@ python-dotenv
 pypdf
 docx2txt
 openpyxl
-unstructured[pdf]
