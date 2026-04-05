@@ -9,3 +9,5 @@ unstructured
 pypdf
 docx2txt
 openpyxl
+torch
+torchvision
